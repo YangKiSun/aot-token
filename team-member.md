@@ -2,11 +2,11 @@
 
 ### Main Team
 
-| 이미지                               | 약력 및 담당업무                                                                                                                                               |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](.gitbook/assets/team\_01.jpg) | <p><strong>AOT CEO</strong></p><p><strong>양 기 선</strong></p><p><strong></strong></p><p>(주)에이원데이타 최고 경영자</p><p>토큰 결제시스템 기획 설계</p><p>에이원페이 결제솔루션 개발</p>   |
-| ![](.gitbook/assets/team\_04.jpg) | <p><strong>AOT CTO</strong></p><p><strong>변 주 옹</strong></p><p><strong></strong></p><p>PG 결제 프로그램 개발</p><p>AOT 플랫폼 월렛 개발 </p><p>AOT 블록체인 시스템 개발 전문가</p> |
-| ![](.gitbook/assets/team\_02.jpg) | <p><strong>AOT COO</strong></p><p><strong>여 인 철</strong></p><p><strong></strong></p><p>블록체인 결제플랫폼 기획전문가</p>                                             |
+| 이미지                               | 약력 및 담당업무                                                                                                                                               |   |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| ![](.gitbook/assets/team\_01.jpg) | <p><strong>AOT CEO</strong></p><p><strong>양 기 선</strong></p><p><strong></strong></p><p>(주)에이원데이타 최고 경영자</p><p>토큰 결제시스템 기획 설계</p><p>에이원페이 결제솔루션 개발</p>   |   |
+| ![](.gitbook/assets/team\_04.jpg) | <p><strong>AOT CTO</strong></p><p><strong>변 주 옹</strong></p><p><strong></strong></p><p>PG 결제 프로그램 개발</p><p>AOT 플랫폼 월렛 개발 </p><p>AOT 블록체인 시스템 개발 전문가</p> |   |
+| ![](.gitbook/assets/team\_02.jpg) | <p><strong>AOT COO</strong></p><p><strong>여 인 철</strong></p><p><strong></strong></p><p>블록체인 결제플랫폼 기획전문가</p>                                             |   |
 
 ### Advisor
 
@@ -16,9 +16,9 @@
 
 ### Marketing Team
 
-| 이미지                               | 약력 및 담당업무                                                                                                        |   |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- | - |
-| ![](.gitbook/assets/team\_07.jpg) | <p><strong>CMO</strong></p><p><strong>정 미 영</strong></p><p><strong></strong></p><p>결제시스템 마케팅 총괄</p><p>홍보 전문가</p> |   |
+| 이미지                                                                 | 약력 및 담당업무                                                                                                        |   |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | - |
+| <img src=".gitbook/assets/team_07.jpg" alt="" data-size="original"> | <p><strong>CMO</strong></p><p><strong>정 미 영</strong></p><p><strong></strong></p><p>결제시스템 마케팅 총괄</p><p>홍보 전문가</p> |   |
 
 ### Management Support Team
 
