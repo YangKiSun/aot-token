@@ -10,7 +10,7 @@
 
 에이원토스(AOT) 프로젝트는 향후 더 빠르고 보안에 강한 메인넷 구축을 위해 텐더민트 오픈소스를 활용한 플랫폼 구성에 참여한다.
 
-Tendermint-cosmo는 텐더민트 합의 프로토콜을 가지고 있으며, 부분적 Synchronous BFT(Byzantine Fault Tolerant) consensus protoco의 개념을 갖는다. 다시 말하면, 텐더민트 는 DPoS(Delegated Proof-of-Stake)개념과 PBFT개념을 섞은 합의 알고리즘이다.&#x20;
+Tendermint-cosmos는 텐더민트 합의 프로토콜을 가지고 있으며, 부분적 Synchronous BFT(Byzantine Fault Tolerant) consensus protocol의 개념을 갖는다. 다시 말하면, 텐더민트는 DPoS(Delegated Proof-of-Stake)개념과 PBFT개념을 섞은 합의 알고리즘이다.&#x20;
 
 Tendermint-cosmos의 특징으로는 상호운영성을 들 수 있다.
 
