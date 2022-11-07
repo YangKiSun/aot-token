@@ -8,10 +8,6 @@
 
 ![](.gitbook/assets/kr\_team\_03.png)
 
-### Advisor
-
-![](.gitbook/assets/kr\_team\_04.png)
-
 ### Marketing Team
 
 ![](.gitbook/assets/kr\_team\_05.png)
