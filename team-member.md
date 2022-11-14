@@ -14,8 +14,6 @@
 
 ### Management Support Team
 
-![](.gitbook/assets/kr\_team\_06.png)
-
 ![](.gitbook/assets/kr\_team\_07.png)
 
 ### Development Team
