@@ -23,5 +23,3 @@
 ![](.gitbook/assets/kr\_team\_08.png)
 
 ![](.gitbook/assets/kr\_team\_09.png)
-
-![](.gitbook/assets/kr\_team\_10.png)
